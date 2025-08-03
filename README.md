@@ -54,13 +54,13 @@ Complete control over your data with export/import functionality, customizable s
 ## 📥 Installation
 
 ### From Chrome Web Store (Recommended)
-1. Visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/[YOUR-EXTENSION-ID])
+1. Visit the Chrome Web Store page (TODO Link TBD)
 2. Click "Add to Chrome"
 3. Confirm the installation
 4. Visit [ChatGPT](https://chatgpt.com) and start organizing!
 
 ### Manual Installation
-1. Download the latest release from [Releases](https://github.com/yourusername/chatgpt-thread-grouper/releases)
+1. Download the latest release from Releases (Chrome Web Store (TODO Link TBD))
 2. Open Chrome Extensions page (`chrome://extensions/`)
 3. Enable "Developer mode"
 4. Click "Load unpacked" and select the extension folder
@@ -95,26 +95,22 @@ The extension requires these permissions to function:
 
 Having issues or want to suggest improvements?
 
-- 🐛 **Report Bugs**: [Submit an Issue](https://github.com/yourusername/chatgpt-thread-grouper/issues)
-- �� **Feature Requests**: [Suggest Features](https://github.com/yourusername/chatgpt-thread-grouper/issues)
-- 📧 **Direct Contact**: [your-email@example.com](mailto:your-email@example.com)
+- 🐛 **Report Bugs**: [Submit an Issue](https://github.com/jackycleancode/ChatGptThreadGrouper/issues)
+- �� **Feature Requests**: [Suggest Features](https://github.com/jackycleancode/ChatGptThreadGrouper/issues)
+- 📧 **Direct Contact**: [jackycleancode@gmail.com](jackycleancode@gmail.com)
 
 ## 🔗 Links
 
-- [Chrome Web Store](https://chrome.google.com/webstore/detail/[YOUR-EXTENSION-ID])
+- Chrome Web Store (TODO Link TBD)
 - [Privacy Policy](PRIVACY_POLICY.md)
-- [Release Notes](https://github.com/yourusername/chatgpt-thread-grouper/releases)
+- Release Notes TBD
 
 ## ⭐ Love the Extension?
 
 If ChatGPT Thread Grouper helps organize your conversations, please:
-- ⭐ Rate it on the [Chrome Web Store](https://chrome.google.com/webstore/detail/[YOUR-EXTENSION-ID])
+- ⭐ Rate it on the Chrome Web Store (TODO Link TBD)
 - 🐙 Star this repository on GitHub
 - 📢 Share it with friends who use ChatGPT
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
