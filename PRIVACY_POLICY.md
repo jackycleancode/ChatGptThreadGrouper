@@ -106,8 +106,8 @@ Data is retained locally on your device until you:
 ## Contact Information
 
 If you have questions about this Privacy Policy or the extension, please contact us at:
-- GitHub Issues: [Your GitHub Repository URL]/issues
-- Email: [Your Contact Email]
+- GitHub Issues: https://github.com/jackycleancode/ChatGptThreadGrouper/issues
+- Email: jackycleancode@gmail.com
 
 ## Legal Compliance
 
