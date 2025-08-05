@@ -59,8 +59,8 @@ Complete control over your data with export/import functionality, customizable s
 3. Confirm the installation
 4. Visit [ChatGPT](https://chatgpt.com) and start organizing!
 
-### Manual Installation
-1. Download the latest release from Releases (Chrome Web Store (TODO Link TBD))
+### Manual Installation (Not supported yet)
+1. Download the latest release from Releases (TBD)
 2. Open Chrome Extensions page (`chrome://extensions/`)
 3. Enable "Developer mode"
 4. Click "Load unpacked" and select the extension folder
