@@ -54,7 +54,7 @@ Complete control over your data with export/import functionality, customizable s
 ## 📥 Installation
 
 ### From Chrome Web Store (Recommended)
-1. Visit the Chrome Web Store page (TODO Link TBD)
+1. Visit the Chrome Web Store page [ChatGPT Thread Grouper](https://chromewebstore.google.com/detail/chatgpt-thread-grouper/jlmkhdhaeedobmijpbpgbdfiggcppoeg)
 2. Click "Add to Chrome"
 3. Confirm the installation
 4. Visit [ChatGPT](https://chatgpt.com) and start organizing!
@@ -101,14 +101,14 @@ Having issues or want to suggest improvements?
 
 ## 🔗 Links
 
-- Chrome Web Store (TODO Link TBD)
+- Chrome Web Store [ChatGPT Thread Grouper](https://chromewebstore.google.com/detail/chatgpt-thread-grouper/jlmkhdhaeedobmijpbpgbdfiggcppoeg)
 - [Privacy Policy](PRIVACY_POLICY.md)
 - Release Notes TBD
 
 ## ⭐ Love the Extension?
 
 If ChatGPT Thread Grouper helps organize your conversations, please:
-- ⭐ Rate it on the Chrome Web Store (TODO Link TBD)
+- ⭐ Rate it on the Chrome Web Store: [ChatGPT Thread Grouper](https://chromewebstore.google.com/detail/chatgpt-thread-grouper/jlmkhdhaeedobmijpbpgbdfiggcppoeg)
 - 🐙 Star this repository on GitHub
 - 📢 Share it with friends who use ChatGPT
 
