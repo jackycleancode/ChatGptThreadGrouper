@@ -11,7 +11,7 @@ Transform your ChatGPT experience with powerful conversation organization tools.
 
 **ChatGPT Thread Grouper** is available in multiple languages. Click below to jump to your preferred language:
 
-🇹🇼 [繁體中文](#繁體中文) | 🇪🇸 [Español](#español) | 🇫🇷 [Français](#français) | 🇩🇪 [Deutsch](#deutsch) | 🇮🇹 [Italiano](#italiano) | 🇯🇵 [日本語](#日本語) | 🇰🇷 [한국어](#한국어) | 🇵🇹 [Português](#português) 
+🇹🇼 [繁體中文](#-繁體中文) | 🇪🇸 [Español](#-español) | 🇫🇷 [Français](#-français) | 🇩🇪 [Deutsch](#-deutsch) | 🇮🇹 [Italiano](#-italiano) | 🇯🇵 [日本語](#-日本語) | 🇰🇷 [한국어](#-한국어) | 🇵🇹 [Português](#-português) 
 
 ---
 
