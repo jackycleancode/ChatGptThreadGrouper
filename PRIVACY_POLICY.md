@@ -1,6 +1,6 @@
 # Privacy Policy for ChatGPT Thread Grouper
 
-**Last Updated:** August 3, 2025
+**Last Updated:** August 18, 2025
 
 ## Overview
 
@@ -18,6 +18,10 @@ ChatGPT Thread Grouper ("the Extension") is committed to protecting your privacy
 - ChatGPT page content necessary to identify and organize conversation threads
 - Thread organization data (custom groups, group names, group assignments)
 
+**Prompt Library Data:**
+- Custom prompt templates you create (names, system prompts, user prompts, categories)
+- Prompt library settings and organization preferences
+
 ### How We Use Your Data
 
 We collect and use this data solely to:
@@ -25,6 +29,8 @@ We collect and use this data solely to:
 - Provide drag-and-drop functionality for thread management
 - Store your organizational preferences and settings
 - Allow you to export and import your organization data
+- Enable the prompt library feature to save and manage your custom prompts
+- Send prompts directly to ChatGPT when you choose to use them
 
 ### Data Storage
 
@@ -38,6 +44,8 @@ We collect and use this data solely to:
 - Thread-to-group assignments
 - Extension settings and preferences
 - Thread titles and metadata for organizational purposes
+- Prompt library templates (names, system prompts, user prompts, categories)
+- Language preferences and interface settings
 
 ## Data Sharing
 
@@ -66,9 +74,11 @@ You have complete control over your data:
 
 ## Permissions Justification
 
-**Storage Permission:** Required to save your conversation groups and settings locally on your device.
+**Storage Permission:** Required to save your conversation groups, settings, and prompt library data locally on your device.
 
 **ActiveTab Permission:** Needed to access ChatGPT page content to identify conversation threads and inject our organization interface.
+
+**Tabs Permission:** Required for the prompt library feature to find existing ChatGPT tabs or create new ones, and to send prompts directly to ChatGPT. Also needed for popup communication with content scripts and multi-tab synchronization of settings and data.
 
 **Host Permissions (chatgpt.com, chat.openai.com):** Required because the extension only works on ChatGPT websites where conversation threads exist.
 
@@ -106,8 +116,8 @@ Data is retained locally on your device until you:
 ## Contact Information
 
 If you have questions about this Privacy Policy or the extension, please contact us at:
-- GitHub Issues: https://github.com/jackycleancode/ChatGptThreadGrouper/issues
-- Email: jackycleancode@gmail.com
+- GitHub Issues: [Your GitHub Repository URL]/issues
+- Email: [Your Contact Email]
 
 ## Legal Compliance
 
