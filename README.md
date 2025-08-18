@@ -11,7 +11,7 @@ Transform your ChatGPT experience with powerful conversation organization tools.
 
 **ChatGPT Thread Grouper** is available in multiple languages. Click below to jump to your preferred language:
 
-🇹🇼 [繁體中文](#-繁體中文) | 🇪🇸 [Español](#-español) | 🇫🇷 [Français](#-français) | 🇩🇪 [Deutsch](#-deutsch) | 🇮🇹 [Italiano](#-italiano) | 🇯🇵 [日本語](#-日本語) | 🇰🇷 [한국어](#-한국어) | 🇵🇹 [Português](#-português) 
+🇹🇼 [繁體中文](#-繁體中文) | 🇪🇸 [Español](#-español) | 🇫🇷 [Français](#-français) | 🇩🇪 [Deutsch](#-deutsch) | 🇮🇹 [Italiano](#-italiano) | 🇯🇵 [日本語](#-日本語) | 🇰🇷 [한국어](#-한국어) | 🇵🇹 [Português](#-português)
 
 ---
 
@@ -78,7 +78,7 @@ Fully localized interface supporting 10 languages including English, Spanish, Fr
 ## 📥 Installation
 
 ### From Chrome Web Store (Recommended)
-1. Visit the Chrome Web Store page (TODO Link TBD)
+1. Visit the [Chrome Web Store page: "ChatGPT Thread Grouper"](https://chromewebstore.google.com/detail/chatgpt-thread-grouper/jlmkhdhaeedobmijpbpgbdfiggcppoeg)
 2. Click "Add to Chrome"
 3. Confirm the installation
 4. Visit [ChatGPT](https://chatgpt.com) and start organizing!
@@ -142,7 +142,7 @@ Having issues or want to suggest improvements?
 
 ### v1.1.1 (2025-08-10)
 - 🐞 Bug Fixes:
-  - Fixed Scholar GPT auto-loading issue 
+  - Fixed Scholar GPT auto-loading issue
   - Enhanced drag and drop functionality for GPTs-type threads
   - Fixed thread count accuracy when moving between groups
 
@@ -154,13 +154,13 @@ Having issues or want to suggest improvements?
 
 ## 🔗 Links
 
-- Chrome Web Store (TODO Link TBD)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-thread-grouper/jlmkhdhaeedobmijpbpgbdfiggcppoeg) 
 - [Privacy Policy](PRIVACY_POLICY.md)
 
 ## ⭐ Love the Extension?
 
 If ChatGPT Thread Grouper helps organize your conversations, please:
-- ⭐ Rate it on the Chrome Web Store (TODO Link TBD)
+- ⭐ Rate it on the [Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-thread-grouper/jlmkhdhaeedobmijpbpgbdfiggcppoeg)
 - 🐙 Star this repository on GitHub
 - 📢 Share it with friends who use ChatGPT
 
@@ -185,7 +185,7 @@ If ChatGPT Thread Grouper helps organize your conversations, please:
 5. **切換語言**: 在設定中更改介面語言以獲得本地化體驗
 6. **享受**: 體驗更乾淨、更有組織的 ChatGPT 介面！
 
-### 🇪🇸 Español  
+### 🇪🇸 Español
 **ChatGPT Thread Grouper** - Organiza tus conversaciones de ChatGPT en grupos personalizados para una mejor gestión y navegación.
 
 **🎮 Cómo Usar:**
