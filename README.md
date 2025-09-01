@@ -5,7 +5,7 @@
 Transform your ChatGPT experience with powerful conversation organization tools. Never lose track of important discussions again!
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-green?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/[YOUR-EXTENSION-ID])
-[![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=for-the-badge)](https://github.com/jackycleancode/ChatGptThreadGrouper/releases)
+[![Version](https://img.shields.io/badge/Version-1.2.3-blue?style=for-the-badge)](https://github.com/jackycleancode/ChatGptThreadGrouper/releases)
 
 ## 🌍 Multi-Language Support
 
@@ -127,6 +127,16 @@ Having issues or want to suggest improvements?
 - 📧 **Direct Contact**: [jackycleancode@gmail.com](jackycleancode@gmail.com)
 
 ## 📋 Changelog
+
+### v1.2.3 (2025-09-01) - Enhanced User Experience
+- 🎯 **Drag Between Groups**: Move threads from one group to another with simple drag and drop
+- ⚡ **Smooth as Butter**: Lightning-fast navigation with no page refreshes - feels like a native app
+- 🐛 **Bug Fixes**: Improved reliability and smoother animations
+
+### v1.2.2 (2025-08-29) - Smooth Navigation
+- 🚀 **Seamless Navigation**: Clicking grouped threads now uses smooth SPA-style navigation instead of page reloads
+- ⚡ **Native Feel**: Thread navigation feels identical to ChatGPT's original interface
+- 🔧 **Technical Enhancement**: Improved navigation compatibility with ChatGPT's routing system
 
 ### v1.2.0 (2025-08-17) - Internationalization & Prompt Library
 **🎉 Major Features:**
